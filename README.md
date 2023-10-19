@@ -5,7 +5,7 @@
 <h3 align="center">A full stack developer</h3>
 
 <p align="center">
- <img width="600" src="/data/github-snake.svg" alt="snake"/>
+ <img width="600" src="./Snake.svg" alt="snake"/>
 </p>
 
 <p align="center">
